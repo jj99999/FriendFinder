@@ -1,0 +1,22 @@
+{
+  "name": "friendfinder-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "home.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jj99999/FriendFinder.git"
+  },
+  "author": "jj99999",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jj99999/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/jj99999/FriendFinder#readme",
+  "dependencies": {
+    "path": "^0.12.7"
+  }
+}
